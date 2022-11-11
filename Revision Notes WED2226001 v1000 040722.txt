@@ -1,0 +1,13 @@
+Revision Notes Primolinear V-25 7826 and Vertek 2400 7827 WED2226001
+
+v1000 July 04, 2022. ZW
+The drawings are originated from Primolinear V-25 WED2130001 v1010 and Vertek 2400 WED1830001 v1210. Modification did:
+1. Combined the WED2130001 and WED1830001 together to use a 48x48x12 control panel for both machines.
+2. Changed the power supply to 208/120VAC 40A to fit both machines.
+3. Updated the wire numbers, page numbers, components numbers, connector numbers for the combined schematic.
+4. Added box conveyor interface on Vertek 2400.
+5. Created a new data plate sheet with 32A as power consuption.
+6. Created a new BOM A111414-119 R00 with pneumatic components list.
+
+
+
